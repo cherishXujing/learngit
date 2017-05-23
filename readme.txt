@@ -12,3 +12,6 @@ Now add a new file LICENSE and insert some msg.
 
 
 " ADD A LINE TO TEST GIT MANAGE "
+
+
+" 	CHANGE README.TXT TO TEST COMMIT BEFORE GIT ADD"
