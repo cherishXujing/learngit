@@ -6,3 +6,9 @@ Git is a free software distributed under the GPL.
 
 This is a text .
 Now add a new file LICENSE and insert some msg.
+
+
+
+
+
+" ADD A LINE TO TEST GIT MANAGE "
